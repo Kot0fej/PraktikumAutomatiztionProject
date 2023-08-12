@@ -6,7 +6,7 @@ data.py, configuration.py, sender_stand_request.py и create_kit_name_kit_test.p
 
 ## Полезные ссылки
 * [Требования к Яндекс.Прилавок](https://wiki.yandex.ru/homepage/trebovanijakjandeksprilavok/)
-* [Документация к API Яндекс.Прилавок](https://8670e233-c323-462a-a7d5-bbca1b30ab54.serverhub.praktikum-services.ru/docs/#api-Warehouses-AmountWarehousesSOAP)
+* [Документация к API Яндекс.Прилавок](https://8670e233-c323-462a-a7d5-bbca1b30ab54.serverhub.praktikum-services.ru/docs/#api-Warehouses-AmountWarehousesSOAP) (связан с тестовым сервером)
 ___
 ##### Автор проекта
 Кабиров Марат Фаритович\
